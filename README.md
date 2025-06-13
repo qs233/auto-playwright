@@ -384,3 +384,5 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 ```
 
 </details>
+
+[![Ask DeepWiki](https://deepwiki.com/badge.svg)](https://deepwiki.com/lucgagan/auto-playwright)
